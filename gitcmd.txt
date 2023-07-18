@@ -1,0 +1,11 @@
+git init
+ git remote add origin (repo link)
+ git remote -v
+ git status
+ git add .
+  git commit -m " Message"
+ git branch
+ git branch main
+ git checkout main
+ git push -u origin main
+ git branch -d master
